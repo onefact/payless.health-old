@@ -1,3 +1,6 @@
+## Project board
+https://github.com/orgs/onefact/projects/2
+
 ## Data
 https://docs.google.com/spreadsheets/d/1cLKU9aC84qMLmpFNTT1Ciih1lqoQFM4mg9WPm7CZIpE/edit?usp=sharing
 
