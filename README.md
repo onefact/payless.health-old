@@ -1,16 +1,16 @@
-## Project board
-https://github.com/orgs/onefact/projects/2
+## Newsletter
 
-## Grant 
-https://www.dropbox.com/sh/ti3shc268gjhve8/AADAMhVTYZSThPcfx1da5bcga?dl=0 
-Funded by Brown Institute (https://brown.columbia.edu/22-23-magic/)
-
-## Data
-https://docs.google.com/spreadsheets/d/1cLKU9aC84qMLmpFNTT1Ciih1lqoQFM4mg9WPm7CZIpE/edit?usp=sharing
-
-## Whiteboards
-
-* 220916-zhi-jaan: https://www.figma.com/file/aiQlqsT3FhuRl2UFnuxZoE/220916-zhi-jaan
-
-## Legal structure
-501(c)(3) foundation: https://www.dropbox.com/s/kzb7zj24u6gewkk/07.26.22%20IRS%20Determination%20Letter_%20One%20Fact%20Foundation%5B73%5D.pdf?dl=0
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/payless.health"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/payless.health', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
