@@ -22,7 +22,7 @@ Our KPI is the median price of hospital procedures, treatments, medications in t
 
 ## Talk
 
-We got to give a talk at an NIH conference called aim-ahead.net recently on the state of the US healthcare system, and what we can do about it: bit.ly/onefact-keynote
+We got to give a talk at an NIH conference called aim-ahead.net recently on the state of the US healthcare system, and what we can do about it: https://bit.ly/onefact-keynote
 
 ## Newsletter
 
