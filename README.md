@@ -14,3 +14,6 @@
     <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
   </p>
 </form>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdlplXl-C8LBNSbom08ZKjKKGZ_3YUcnJCR316ddPcE69g-ZQ/viewform?embedded=true" width="168" height="100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
