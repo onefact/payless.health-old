@@ -33,4 +33,4 @@ Subscribe to our mailing list to learn when we launch:
 
 ## Contact
 
-Say hi! Email us at hello@onefact.org.
+Say hi! If you have a story to share about your journey trying to pay less for the health care you deserve, please share it with us: [stories@payless.health](stories@payless.health).
